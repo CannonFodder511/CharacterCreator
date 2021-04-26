@@ -1,0 +1,17 @@
+C:\Users\ncann\source\repos\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.csprojAssemblyReference.cache
+C:\Users\ncann\source\repos\CharacterCreator\CharacterCreator\obj\Debug\MainWindow.g.cs
+C:\Users\ncann\source\repos\CharacterCreator\CharacterCreator\obj\Debug\Create.g.cs
+C:\Users\ncann\source\repos\CharacterCreator\CharacterCreator\obj\Debug\App.g.cs
+C:\Users\ncann\source\repos\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator_MarkupCompile.cache
+C:\Users\ncann\source\repos\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator_MarkupCompile.lref
+C:\Users\ncann\source\repos\CharacterCreator\CharacterCreator\bin\Debug\CharacterCreator.exe.config
+C:\Users\ncann\source\repos\CharacterCreator\CharacterCreator\bin\Debug\CharacterCreator.exe
+C:\Users\ncann\source\repos\CharacterCreator\CharacterCreator\bin\Debug\CharacterCreator.pdb
+C:\Users\ncann\source\repos\CharacterCreator\CharacterCreator\obj\Debug\MainWindow.baml
+C:\Users\ncann\source\repos\CharacterCreator\CharacterCreator\obj\Debug\Create.baml
+C:\Users\ncann\source\repos\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.g.resources
+C:\Users\ncann\source\repos\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.Properties.Resources.resources
+C:\Users\ncann\source\repos\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.csproj.GenerateResource.cache
+C:\Users\ncann\source\repos\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.csproj.CoreCompileInputs.cache
+C:\Users\ncann\source\repos\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.exe
+C:\Users\ncann\source\repos\CharacterCreator\CharacterCreator\obj\Debug\CharacterCreator.pdb
